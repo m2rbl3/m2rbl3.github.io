@@ -15,7 +15,7 @@ import {
   EmphasizeText,
 } from '../common';
 import logoJavaScript from '../../images/logo_js.svg';
-import logoGit from '../../images/logo_git.eps';
+import logoGit from '../../images/logo_git.svg';
 import logoSass from '../../images/logo_sass.svg';
 import logoReact from '../../images/logo_react.svg';
 import logoNode from '../../images/logo_node.svg'
